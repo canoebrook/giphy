@@ -1,6 +1,6 @@
 body {
   font: 18px arial, sans-serif;
-  background: #eee;
+  background: #ccc;
 }
 
 #dogs {
@@ -41,7 +41,7 @@ input[type="submit"] {
   background: #659a98;
   border: 0;
   border-radius: 5px;
-  box-shadow: 2px 2px 3px #bbb;
+  box-shadow: 2px 2px 3px #fff;
 }
 
 button:hover,
